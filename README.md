@@ -1,7 +1,7 @@
 ### Hi i'm João Vitor Web Developer 👋
 
-- 🔭 I’m currently working on [Site Edmur Imóveis](https://edmur.com.br)
-- 🌱 I’m currently learning **Nodejs and NextJS**
+- 🔭 I’m currently working on CRMThink - ConnectThink
+- 🌱 I’m currently learning **PhP - Laravel**
 - 📫 How to reach me **jvitornas95@gmail.com**
 <!--
 **jvitornas95/jvitornas95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/php.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/laravel.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
 ###
